@@ -1,0 +1,12 @@
+body { font-family: Arial, sans-serif; margin:0; padding:0; line-height:1.4; }
+header { padding:20px; color:#fff; background: linear-gradient(135deg,#1a73e8,#ff6b6b); }
+.main-nav { list-style:none; padding:0; margin:0; }
+.main-nav li { display:inline-block; margin-right:12px; }
+a { color:inherit; text-decoration:none; }
+main { padding:20px; }
+footer { padding:10px 20px; background:#f4f4f4; }
+img, video { max-width:100%; height:auto; }
+form { display:block; max-width:400px; }
+label { display:block; margin-top:10px; }
+input, textarea, button { width:100%; padding:8px; margin-top:5px; }
+button { background:#1a73e8; color:#fff; border:none; cursor:pointer; }

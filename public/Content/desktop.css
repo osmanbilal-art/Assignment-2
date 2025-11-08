@@ -1,0 +1,5 @@
+body { font-size:20px; }
+header h1 { font-size:32px; }
+main { width:70%; margin:auto; }
+article { float:left; width:45%; margin:2%; }
+footer { clear:both; }
